@@ -16,6 +16,9 @@ Tensorflow is the framework that we used in the notebook, and we manage to build
 for evaluation we use Mean square error (MSE) and Mean absolute error (MAE)
 TODO: metrics results
 TODO : bar chart 
+## Useful Resources :
+* [Using Autoencoder to denoise images](https://medium.com/@otmanheddouchai/autoencoder-3ab170b1842d)
+* [An Introduction to Autoencoders](https://arxiv.org/pdf/2201.03898.pdf)
 
 
 
