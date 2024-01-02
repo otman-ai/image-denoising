@@ -1,5 +1,5 @@
 # Image Denoising using Autoencoder 
-in this repositry, we will build 22 different models in order to find the best archetichture that remove noises very well  from given images.
+in this repository, we will build 22 different models in order to find the best archetichture that remove noises very well  from given images.
 TODO: Image of denoising and predicted value
 ## Dataset
 We used Two different datasets from [kaggle](https://www.kaggle.com),  [Smartphone Image Denoising Dataset (SIDD)](https://www.kaggle.com/datasets/rajat95gupta/smartphone-image-denoising-dataset) and 
