@@ -1,6 +1,10 @@
 # Image Denoising using Autoencoder 
-in this repository, we will build 22 different models in order to find the best archetichture that remove noises very well  from given images.
-TODO: Image of denoising and predicted value
+
+In this Reposrity,I used Autoencoder to test 22 differents models to find the best architechture that suite image denoising problem. I tries Convolution Neural Network with different parametres (kernel size, filter) as well as Fully connected layer with different Hidden unites.
+
+The notebook contains all the code without the logs because I have trouble with timout in colab (Runing the notebook may take more then 6 hours that is why you find only the logs of the first 13 models ) . SO I highly recommand you if you have GPU in your local machine and you want to see all the results of each model, run all the cells .
+
+Make sure you have installed all the libraries :
 ## Dataset
 We used Two different datasets from [kaggle](https://www.kaggle.com),  [Smartphone Image Denoising Dataset (SIDD)](https://www.kaggle.com/datasets/rajat95gupta/smartphone-image-denoising-dataset) and 
 [Super Resolution Benchmarks](https://www.kaggle.com/datasets/jesucristo/super-resolution-benchmarks) . 
